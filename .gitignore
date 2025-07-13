@@ -201,7 +201,13 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+pyproject.toml
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+system design/
+gitignore/
