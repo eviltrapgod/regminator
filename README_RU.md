@@ -45,19 +45,19 @@ pip install -r requirements.txt
 ```
 
 ## Запуск
-**Windows**
+### **Windows**
 
 ```bash
 python main.py
 ```
 
-**Linux / BSD**
+### **Linux / BSD**
 
 ```bash
 python3 ./main.py
 ```
 
-**macOS (Darwin)**
+### **macOS (Darwin)**
 
 ```bash
 python3 main.py
