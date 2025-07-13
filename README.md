@@ -13,7 +13,7 @@
 
 ---
 
-Rigminator is a program for quick and convenient flashing of Android devices. Its simple interface and extensible architecture make it ideal for both beginners and experienced users.
+**Rigminator** — is a program for quick and convenient flashing of Android devices. Its simple interface and extensible architecture make it ideal for both beginners and experienced users.
 
 ## How It Works and What It Uses
 
