@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md"><strong>English</strong></a> | Русский
+  <a href="README_RU.md"><strong>English</strong></a> | Русский
 </p>
 
 <p align="center">
