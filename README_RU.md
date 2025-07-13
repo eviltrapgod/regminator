@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/eviltrapgod/regminator?include_prereleases&style=flat-square" alt="release">
-  <img src="https://img.shields.io/github/last-commit/eviltrapgod/regminator?style=flat-square" alt="last commit">
-  <img src="https://img.shields.io/github/languages/top/eviltrapgod/regminator?style=flat-square" alt="language">
-  <img src="https://img.shields.io/github/license/eviltrapgod/regminator?style=flat-square" alt="license">
+  <img src="https://img.shields.io/github/v/release/eviltrapgod/rigminator?include_prereleases&style=flat-square" alt="release">
+  <img src="https://img.shields.io/github/last-commit/eviltrapgod/rigminator?style=flat-square" alt="last commit">
+  <img src="https://img.shields.io/github/languages/top/eviltrapgod/rigminator?style=flat-square" alt="language">
+  <img src="https://img.shields.io/github/license/eviltrapgod/rigminator?style=flat-square" alt="license">
 </p>
 
 
