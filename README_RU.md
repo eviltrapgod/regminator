@@ -5,10 +5,15 @@
   <img src="https://img.shields.io/github/license/eviltrapgod/rigminator?style=flat-square" alt="license">
 </p>
 
-
 <p align="center">
   <strong>Русский</strong> | <a href="README.md">English</a>
 </p>
+
+# **Проект закрыт за неимением команды**
+
+---
+---
+---
 
 # **Rigminator — Лёгкая и надёжная прошивка твоего Android-устройства**
 
