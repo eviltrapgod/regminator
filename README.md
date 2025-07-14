@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/github/license/eviltrapgod/rigminator?style=flat-square" alt="license">
 </p>
 
+
+# **The project was closed due to lack of a team**
+---
+---
+---
 # Rigminator — Easy and Reliable Firmware Flashing for Your Android Device
 
 ---
@@ -70,9 +75,9 @@ If you find a bug or have suggestions for improvement, please let us know via Te
 The project is created and supported by the Rigminator team:
 
 * **@FAANGowner** — Developer
-* **@backupimei** — Developer
-* **@ellerstell4r** — Developer
-* **@Loadstring4ever** — Developer
+* ~~**@backupimei** — Developer~~
+* ~~**@ellerstell4r** — Developer~~
+* ~~**@Loadstring4ever** — Developer~~
 
 ---
 
